@@ -51,7 +51,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-color: white;
+            background-color: black;
         }
     </style>
     <script type="text/javascript" charset="utf-8">
@@ -105,7 +105,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Ron's Favorites</a>
+            <a class="navbar-brand" href="#">Ron's Favorite Movies!</a>
           </div>
         </div>
       </div>
