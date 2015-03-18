@@ -3,4 +3,4 @@
 
 Running the entertainment_center.py will launch a website showing Ron's favorite movies. 
 
-Click on a movie poster to view its trainer.
+Click on a movie poster to view its trailer.
